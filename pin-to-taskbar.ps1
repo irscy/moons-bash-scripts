@@ -1,0 +1,1 @@
+Write-Output("this will soon be a script to pin items to the taskbar, be ready!");
