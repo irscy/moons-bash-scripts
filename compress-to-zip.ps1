@@ -1,9 +1,3 @@
-$compress = @{
-    Path = $path 
-    DestinationPath = $dest
-    CompressionLevel = "Fastest"
-}
+# lmfao this shit is useless
 
-Compress-Archive($compress)
-
-Write-Output("done!")
+Write-Output("just use the built in compress archive command L")
